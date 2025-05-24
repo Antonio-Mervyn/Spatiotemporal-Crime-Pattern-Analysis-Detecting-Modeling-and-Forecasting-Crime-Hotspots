@@ -1,1 +1,0 @@
-# Spatiotemporal-Crime-Pattern-Analysis-Detecting-Modeling-and-Forecasting-Crime-Hotspots
