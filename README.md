@@ -1,4 +1,4 @@
-## 📍 Spatiotemporal Crime Pattern Analysis – Chicago
+## 📍 Spatiotemporal Crime Pattern Analysis 
 
 This project presents a hybrid framework for detecting, analyzing, and forecasting crime hotspots in Chicago by integrating spatial, temporal, graph-based, and probabilistic modeling techniques. Using publicly available crime data, we used ST-DBSCAN, T-OPTICS, Clique Clustering, Spatiotemporal Graph Convolutional Networks (ST-GCN), Gaussian Mixture Models (GMM), and the Join-Less Approach for Co-Location Pattern Mining to uncover complex, evolving crime patterns on the Chicago Crime Dataset.
 
@@ -27,8 +27,3 @@ This project presents a hybrid framework for detecting, analyzing, and forecasti
 - Kaggle – Dataset source: Chicago Crimes 2012–2017
 - Google Colab – Environment for running experiments and visualizing results
 - Git & GitHub – Version control and collaborative development
-
-## 👩‍💻 Authors
-- Shreya Nilesh Gaikwad - sgaikwad2@student.gsu.edu
-- Bhavana Jayappa - – bjayappa1@student.gsu.edu
-- Mervyn Benedict Antonio - bmervyn1@student.gsu.edu
